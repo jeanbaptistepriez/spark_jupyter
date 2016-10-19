@@ -12,7 +12,7 @@ Dependencies
 ------------
 
 The movable feature is only available using the online javascript 
-library `http://johnny.github.io/jquery-sortable/`.
+library http://johnny.github.io/jquery-sortable/.
 
 Install
 -------
@@ -22,4 +22,4 @@ Run the command: `python setup.py install`
 Example
 -------
 
-_cf._ `spark_jupyter/Example.ipynb`
+_cf._ `Example.ipynb`
